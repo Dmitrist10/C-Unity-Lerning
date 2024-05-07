@@ -8,7 +8,7 @@
    "string" ist Text;
 
 aufbau:
-Type Name = 
+Type Name = was es ist z.b. 10;
 z.b.
 int m_Vaulue = 5;
 float x = 10.5f;
